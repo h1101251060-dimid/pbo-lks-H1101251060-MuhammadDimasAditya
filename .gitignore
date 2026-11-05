@@ -2,3 +2,5 @@ vendor/
 .env
 .DS_Store
 *.log
+.postman/
+postman/
