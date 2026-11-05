@@ -1,7 +1,7 @@
 # PBO LKS — Portofolio Praktikum
 
-- Nama : Nama Lengkap Kamu
-- NIM  : 20230001
+- Nama : Muhammad Dimas Aditya
+- NIM  : H1101251060
 - Kelas: A
 
 ## Daftar Pertemuan
