@@ -4,3 +4,4 @@ vendor/
 *.log
 .postman/
 postman/
+cat-*.json
